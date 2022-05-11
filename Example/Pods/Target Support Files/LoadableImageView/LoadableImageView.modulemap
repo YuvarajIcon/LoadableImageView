@@ -1,0 +1,6 @@
+framework module LoadableImageView {
+  umbrella header "LoadableImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

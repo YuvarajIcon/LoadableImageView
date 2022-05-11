@@ -1,8 +1,10 @@
+source 'https://github.com/YuvarajIcon/PodSpecRepo.git'
 use_frameworks!
-
-platform :ios, '9.0'
+platform :ios, '13.0'
 
 target 'LoadableImageView_Example' do
+  pod 'Downloader'
+  pod 'HelpfulExtensions'
   pod 'LoadableImageView', :path => '../'
 
   target 'LoadableImageView_Tests' do

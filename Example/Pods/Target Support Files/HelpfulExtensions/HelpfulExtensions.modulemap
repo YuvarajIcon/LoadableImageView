@@ -1,0 +1,6 @@
+framework module HelpfulExtensions {
+  umbrella header "HelpfulExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

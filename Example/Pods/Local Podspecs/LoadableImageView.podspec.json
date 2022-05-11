@@ -1,0 +1,32 @@
+{
+  "name": "LoadableImageView",
+  "version": "0.1.0",
+  "summary": "A library to download and show images seamlessly.",
+  "description": "A library to download images and show them seamlessly without the headache of thread safety.",
+  "homepage": "https://github.com/YuvarajIcon/LoadableImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YuvarajIcon": "yuvaraj.australia@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/YuvarajIcon/LoadableImageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "LoadableImageView/Classes/**/*",
+  "swift_versions": "4.0",
+  "dependencies": {
+    "Downloader": [
+
+    ],
+    "HelpfulExtensions": [
+
+    ]
+  },
+  "swift_version": "4.0"
+}
