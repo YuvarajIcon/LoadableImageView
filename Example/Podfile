@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LoadableImageView_Example' do
+  pod 'LoadableImageView', :path => '../'
+
+  target 'LoadableImageView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
