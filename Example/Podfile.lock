@@ -1,6 +1,6 @@
 PODS:
   - Downloader (0.1.2)
-  - HelpfulExtensions (0.1.3)
+  - HelpfulExtensions (0.1.4)
   - LoadableImageView (0.1.0):
     - Downloader
     - HelpfulExtensions
@@ -11,7 +11,7 @@ DEPENDENCIES:
   - LoadableImageView (from `../`)
 
 SPEC REPOS:
-  https://github.com/YuvarajIcon/PodSpecRepo.git:
+  https://github.com/YuvarajIcon/PodSpecRepo:
     - Downloader
     - HelpfulExtensions
 
@@ -21,9 +21,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Downloader: e3f1b5e4953fbdca5be1c71cad82251e3392ed50
-  HelpfulExtensions: dc1e38aaa8da4a0c40fcef46bf643b4cfeadacc3
+  HelpfulExtensions: 8f471d014e44d54e9479cf303886a9853bb99570
   LoadableImageView: a70caaad3f894a63a529bd7e09ab21e41b28c456
 
-PODFILE CHECKSUM: 36f089bd18fbce7d8da59e10859378d3e63b0105
+PODFILE CHECKSUM: b13e58c219299cc270d9b188f7846d56a1f59e78
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.11.3

@@ -22,7 +22,7 @@ pod 'HelpfulExtensions'
 
 ## Author
 
-yuvaraj.australia@gmail.com, yuvaraj@ncompass.in
+Yuvaraj, yuvaraj.australia@gmail.com
 
 ## License
 
